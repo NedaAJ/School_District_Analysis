@@ -14,7 +14,7 @@ After removing the Thomas High School 9th grade math and reading scores, majorit
 
 ![Original_per_school_summary](Resources/Original_per_school_summary.PNG)
 
-
+The table you can see below is the result of our most recent analysis, where we removed Thomas High School 9th grade math and reading scores. As you can see, the only results effected by this change of data were the ***percentage of passing*** for ***math*** and ***reading*** and also ***overall passing percentage*** of **Thomas high School**. This means that even with removal of a portion of our data, majority of our results were not impacted and remained nearly the same.
 
 ![New_per_school_summary](Resources/New_per_school_summary.PNG)
 
