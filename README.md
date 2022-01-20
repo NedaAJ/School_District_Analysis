@@ -3,6 +3,15 @@ You can find the Analysis file here: [School_District_Analysis](https://github.c
 
 ## Overview of Analysis
 
+![Original_per_school_summary](Resources/Original_per_school_summary.PNG)
+
+
+
+![New_per_school_summary](Resources/New_per_school_summary.PNG)
+
+
+
+
 ## Results
 
 
