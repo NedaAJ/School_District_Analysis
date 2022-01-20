@@ -19,3 +19,10 @@ The table you can see below is the result of our most recent analysis, where we 
 ![New_per_school_summary](Resources/New_per_school_summary.PNG)
 
 ## Summary
+The four major changes occured in our analysis are:
+- **The Total Number of Students**
+- **Thomas High School Total Number of Students**
+- **Thomas High School Average Math and Reading Scores**
+- **Thomas High School Percentage of Passing students (Math, Reading and Overall)**
+
+
