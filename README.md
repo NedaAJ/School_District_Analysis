@@ -26,3 +26,6 @@ The four major changes occured in our analysis are:
 - **Thomas High School Percentage of Passing students (Math, Reading and Overall)**
 The removal of the data has a direct impact on total count of students and total number of students in Thomas High School, more specififcally for this analysis. As the total student count was decreased, there has been a slight change in average scores and percentages, but the changes were minimal. Since th changes to our analysis was minor, it is safe to say that the removal of Thomas High School 9th graders math and reading scores was not as significant. 
 
+## Contact:
+- Email : [neda.ahmadi.jesh@gmail.com](mailto:neda.ahmadi.jesh@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Linkedin: www.linkedin.com/in/neda-ahmadi-j
